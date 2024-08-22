@@ -242,7 +242,6 @@ htmlF.forEach(item => {
     })
 })
 
-
 const container = document.querySelector('.container')
 const count = document.querySelector('span')
 
